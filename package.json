@@ -1,5 +1,5 @@
 {
-    "name": "MAKINO-MD-V2",
+    "name": "Loner",
     "version": "2.6.0",
     "description": "MAKINO-MD-V2 is a WhatsApp multiDevice Bot  in Javascript using the Baileys module to make your WhatsApp experience easier.",
     "main": "server.js",
